@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @VenomF5
-- 👀 I’m interested in Coding and gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me Mia.sea124@gmail.com
+Hi there! 👋 I'm F5. I'm passionate about photography, writing, travel, gaming. I enjoy exploring new ideas and learning about different cultures, technologies, and creative fields.
 
-<!---
-VenomF5/VenomF5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe in the power of collaboration and am always open to connecting with like-minded people. Feel free to check out my projects and reach out if you share any of the same interests!
+
